@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrados</string>
+    <string name="header_sq1">Text composable</string>
+    <string name="body_sq1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="header_sq2">Image composable</string>
+    <string name="body_sq2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="header_sq3">Row composable</string>
+    <string name="body_sq3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="header_sq4">Column composable</string>
+    <string name="body_sq4">A layout composable that places its children in a vertical sequence.</string>
+</resources>
